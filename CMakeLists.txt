@@ -3,23 +3,22 @@ project(SokolSharedLib C)
 
 # 1. Plattform-spezifische Makros festlegen
 if(WIN32)
-    # Windows nutzt standardmässig Direct3D11 und braucht __declspec für die DLL
-    set(SOKOL_BACKEND "SOKOL_D3D11")
+    # Wir erzwingen OpenGL für Windows
     set(SOKOL_EXPORT "__declspec(dllexport)")
-    set(SOKOL_LIBS kernel32 user32 gdi32 dxgi d3d11 ole32)
+    set(SOKOL_LIBS kernel32 user32 gdi32 opengl32 ole32)
 else()
-    # Linux (Ubuntu) nutzt OpenGL Core Profile und GCC-Sichtbarkeit
-    set(SOKOL_BACKEND "SOKOL_GLCORE")
+    # Linux (Ubuntu)
     set(SOKOL_EXPORT "__attribute__((visibility(\"default\")))")
     set(OpenGL_GL_PREFERENCE GLVND)
 endif()
+
 
 # 2. Den C-Wrapper automatisch generieren
 set(SOKOL_WRAPPER "${CMAKE_CURRENT_BINARY_DIR}/sokol_wrapper.c")
 file(WRITE ${SOKOL_WRAPPER} "
 #define SOKOL_NO_ENTRY
 #define SOKOL_IMPL
-#define ${SOKOL_BACKEND}
+#define SOKOL_GLCORE
 #define SOKOL_API_DECL ${SOKOL_EXPORT}
 
 #include \"sokol_log.h\"\n
