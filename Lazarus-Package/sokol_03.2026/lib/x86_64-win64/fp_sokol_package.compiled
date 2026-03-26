@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus Version="4.99"/>
+  <Compiler Value="/home/tux/fpcupdeluxe_trunk/fpc/bin/x86_64-linux/fpc.sh" Date="1770302074"/>
+  <Params Value="-Twin64 -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -Fu/n4800/DATEN/Programmierung/mit_GIT/Lazarus/Tutorial/GNOME/Package_no_Ubuntu/sokol_03.2026/ -Fu/home/tux/fpcupdeluxe_trunk/lazarus/packager/units/x86_64-win64 -FU/n4800/DATEN/Programmierung/mit_GIT/Lazarus/Tutorial/GNOME/Package_no_Ubuntu/sokol_03.2026/lib/x86_64-win64/ fp_sokol_package.pas"/>
+</CONFIG>

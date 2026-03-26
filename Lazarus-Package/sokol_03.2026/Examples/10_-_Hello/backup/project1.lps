@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="82"/>
+        <CursorPos X="73" Y="103"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fp_sokol.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="28" Y="46"/>
+        <UsageCount Value="23"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/home/tux/fpcupdeluxe_trunk/fpcsrc/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="885"/>
+        <CursorPos X="25" Y="908"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/sokol_time.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="23"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/sokol_glue.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="9" Y="10"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/sokol_gfx.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="45"/>
+        <CursorPos Y="74"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/sokol_fetch.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="60"/>
+        <CursorPos X="21" Y="73"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/sokol_audio.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="35" Y="68"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/sokol_args.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="23" Y="24"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/sokol_app.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="466"/>
+        <CursorPos X="29" Y="555"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/sokol_log.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="13"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_spine.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="139" Y="438"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_shape.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="116"/>
+        <CursorPos X="86" Y="153"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_nuklear.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="131" Y="67"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_imgui.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos Y="79"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_memtrack.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="19"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_gl.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="131"/>
+        <CursorPos X="125" Y="167"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_fontstash.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="65" Y="16"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_gfx_imgui.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos Y="25"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_debugtext.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="49" Y="121"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_Tools/include-C/sokol/util/sokol_color.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="193"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/fp_sokol.pas"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="4"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/fp_sokol_includes.inc"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="33" Y="15"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/util/sokol_color.inc"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="10" Y="6"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/sokol_gfx.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="13"/>
+        <CursorPos X="5" Y="36"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/util/sokol_nuklear.inc"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="25"/>
+        <CursorPos X="20" Y="48"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/util/sokol_debugtext.inc"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="28"/>
+        <CursorPos X="24" Y="64"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/sokol_app.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="516"/>
+        <CursorPos X="10" Y="539"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="73" Column="16" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="13" Column="25" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="84" Column="12" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="52" Column="18" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/sokol_gfx.inc"/>
+        <Caret Line="882" Column="42" TopLine="859"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="140" Column="19" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="6"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="111" Column="15" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="93" Column="66" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="109" Column="37" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="114" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="109" Column="3" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="63" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="62" Column="48" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="60" Column="7" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="50" Column="19" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/sokol_gfx.inc"/>
+        <Caret Line="859" Column="77" TopLine="855"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="60" Column="15" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="62" Column="14" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="60" Column="34" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/sokol_gfx.inc"/>
+        <Caret Line="807" TopLine="774"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="60" Column="33" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="../../Package_no_Ubuntu/sokol_03.2026/sokol/sokol_gfx.inc"/>
+        <Caret Line="804" Column="18" TopLine="775"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="61" Column="45" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="62" Column="54" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="115" Column="10" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="112" Column="12" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="59" Column="60" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="129" Column="86" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="102" Column="18" TopLine="82"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <LaunchingApplication Use="True"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="2">
+        <Item1 Value="/usr/bin/xterm -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+        <Item2 Value="/usr/bin/gnome-terminal -t &apos;Lazarus Run Output&apos; -e &apos;$(LazarusDir)/tools/runwait.sh $(TargetCmdLine)&apos;"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>

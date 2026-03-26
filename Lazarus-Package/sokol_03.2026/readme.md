@@ -1,6 +1,8 @@
 ## Original Quellen
 https://github.com/floooh/sokol
 
+Zuerst `CMakeLists.txt` in den Build Ordner kopieren.
+
 
 ## Linux
 

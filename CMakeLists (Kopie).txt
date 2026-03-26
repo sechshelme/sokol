@@ -29,30 +29,10 @@ file(WRITE ${SOKOL_WRAPPER} "
 #include \"sokol_args.h\"\n
 #include \"sokol_fetch.h\"\n
 #include \"sokol_glue.h\"\n
-
-
-#define SOKOL_COLOR_IMPL
-#include \"util/sokol_color.h\"\n
-
-#define SOKOL_GL_IMPL
 #include \"util/sokol_gl.h\"\n
-
-#define SOKOL_SHAPE_IMPL
-#include \"util/sokol_shape.h\"\n
-
-#define SOKOL_DEBUGTEXT_IMPL
 #include \"util/sokol_debugtext.h\"\n
-
-#define SOKOL_MEMTRACK_IMPL
-#include \"util/sokol_memtrack.h\"\n
-
-
-//#include \"util/sokol_fontstash.h\"\n
-//#include \"util/sokol_spine.h\"\n
-
-//#include \"util/sokol_imgui.h\"\n
-//#include \"util/sokol_gfx_imgui.h\"\n
-//#include \"util/sokol_nuklear.h\"\n
+#include \"util/sokol_shape.h\"\n
+#include \"util/sokol_color.h\"\n
 ")
 
 # 3. Die Library definieren
